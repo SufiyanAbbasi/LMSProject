@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFcFQBu4aTPBwEfj3fyAFpU0G6Hmkr68M/N3wnbnOdXtdtfn6YYLomcnUzE9ezICm1jct05XRsOsYAiPIUh4Pg==",
+  "dgSpecHash": "3Cm3FiGtNylIxLVy8X09SsuNujAb5W1eOJdKReWl2713NzSq71qydMYWl2S6du9D/EgL/hUHZADj9OJCIrafkA==",
   "success": true,
-  "projectFilePath": "E:\\BeeTechnica Internships\\FullStack-net&angular\\LMS-FS\\LMSAPI\\LMSAPI.csproj",
+  "projectFilePath": "E:\\BeeTechnica Internships\\FullStack-net&angular\\LMSProject\\LMSAPI\\LMSAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laptop House\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Laptop House\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

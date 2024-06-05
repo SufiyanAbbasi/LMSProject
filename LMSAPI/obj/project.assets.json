@@ -4516,6 +4516,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -4527,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BeeTechnica Internships\\FullStack-net&angular\\LMS-FS\\LMSAPI\\LMSAPI.csproj",
+      "projectUniqueName": "E:\\BeeTechnica Internships\\FullStack-net&angular\\LMSProject\\LMSAPI\\LMSAPI.csproj",
       "projectName": "LMSAPI",
-      "projectPath": "E:\\BeeTechnica Internships\\FullStack-net&angular\\LMS-FS\\LMSAPI\\LMSAPI.csproj",
+      "projectPath": "E:\\BeeTechnica Internships\\FullStack-net&angular\\LMSProject\\LMSAPI\\LMSAPI.csproj",
       "packagesPath": "C:\\Users\\Laptop House\\.nuget\\packages\\",
-      "outputPath": "E:\\BeeTechnica Internships\\FullStack-net&angular\\LMS-FS\\LMSAPI\\obj\\",
+      "outputPath": "E:\\BeeTechnica Internships\\FullStack-net&angular\\LMSProject\\LMSAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laptop House\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4565,6 +4566,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.6, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[8.0.6, )"
