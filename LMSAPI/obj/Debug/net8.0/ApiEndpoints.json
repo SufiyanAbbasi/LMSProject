@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "LMSAPI.Controllers.LibraryController",
+    "Method": "Login",
+    "RelativePath": "api/Library/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LMSAPI.Controllers.LibraryController",
+    "Method": "Register",
+    "RelativePath": "api/Library/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "LMSAPI.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

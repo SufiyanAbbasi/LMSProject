@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|e:\\beetechnica internships\\fullstack-net\u0026angular\\lmsproject\\lmsapi\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|solutionrelative:context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|e:\\beetechnica internships\\fullstack-net\u0026angular\\lmsproject\\lmsapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|solutionrelative:controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|e:\\beetechnica internships\\fullstack-net\u0026angular\\lmsproject\\lmsapi\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|solutionrelative:emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|e:\\beetechnica internships\\fullstack-net\u0026angular\\lmsproject\\lmsapi\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|solutionrelative:jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|e:\\beetechnica internships\\fullstack-net\u0026angular\\lmsproject\\lmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|e:\\beetechnica internships\\fullstack-net\u0026angular\\lmsproject\\lmsapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|solutionrelative:controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|e:\\beetechnica internships\\fullstack-net\u0026angular\\lmsproject\\lmsapi\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06DC98D-207C-4E3D-8A9A-851EB8AE3672}|LMSAPI.csproj|solutionrelative:context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Entities\\User.cs",
-              "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T11:04:32.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAIAAAAAAAAAAADwvwsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-05T11:53:29.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Context.cs",
-              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Context.cs",
-              "RelativeDocumentMoniker": "Context.cs",
-              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Context.cs",
-              "RelativeToolTip": "Context.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAowHEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T11:41:16.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LibraryController.cs",
-              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Controllers\\LibraryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LibraryController.cs",
-              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Controllers\\LibraryController.cs",
-              "RelativeToolTip": "Controllers\\LibraryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T11:01:16.844Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -98,13 +54,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\JwtService.cs",
+              "RelativeDocumentMoniker": "JwtService.cs",
+              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\JwtService.cs",
+              "RelativeToolTip": "JwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:27:17.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\EmailService.cs",
+              "RelativeDocumentMoniker": "EmailService.cs",
+              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\EmailService.cs",
+              "RelativeToolTip": "EmailService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:02:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:04:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T11:53:29.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Context.cs",
+              "RelativeDocumentMoniker": "Context.cs",
+              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Context.cs",
+              "RelativeToolTip": "Context.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAIBJwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:41:16.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibraryController.cs",
+              "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:01:16.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\BeeTechnica Internships\\FullStack-net\u0026angular\\LMSProject\\LMSAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAaAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T10:56:25.831Z",
               "EditorCaption": ""

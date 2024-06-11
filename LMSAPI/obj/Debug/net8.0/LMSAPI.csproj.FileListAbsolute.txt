@@ -135,3 +135,4 @@ E:\BeeTechnica Internships\FullStack-net&angular\LMSProject\LMSAPI\obj\Debug\net
 E:\BeeTechnica Internships\FullStack-net&angular\LMSProject\LMSAPI\obj\Debug\net8.0\LMSAPI.pdb
 E:\BeeTechnica Internships\FullStack-net&angular\LMSProject\LMSAPI\obj\Debug\net8.0\LMSAPI.genruntimeconfig.cache
 E:\BeeTechnica Internships\FullStack-net&angular\LMSProject\LMSAPI\obj\Debug\net8.0\ref\LMSAPI.dll
+E:\BeeTechnica Internships\FullStack-net&angular\LMSProject\LMSAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

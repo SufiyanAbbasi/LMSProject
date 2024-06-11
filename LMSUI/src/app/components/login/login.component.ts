@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { MaterialModule } from '../../material/material.module';
 import { FormBuilder, FormGroup, ReactiveFormsModule, Validators } from '@angular/forms';
 import { RouterLink } from '@angular/router';
+import { ApiService } from '../../services/api.service';
 
 
 @Component({
@@ -17,6 +18,7 @@ export class LoginComponent {
 
   constructor(
     fb: FormBuilder,
+    private apiService: ApiService
   ) {
     this.loginForm = fb.group({
       email: fb.control('', [Validators.required]),
@@ -25,6 +27,16 @@ export class LoginComponent {
   }
 
   login(){
+    let loginInfo ={
+      email: this.loginForm.get('email')?. value,
+      password: this.loginForm.get('password')?. value
+    }
 
+    this.apiService.login(loginInfo).subscribe({
+      next : res =>{
+        console.log(res);
+        
+      }
+    })
   }
 }
